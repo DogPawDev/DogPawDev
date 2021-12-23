@@ -3,11 +3,11 @@
 <img style="width:100px; height:100px" src="https://user-images.githubusercontent.com/18084932/144811256-d06ba391-7eb3-4122-9d31-1ef7f2edc884.gif"> 
 
 
-* 저는 Spring Framework와 Server Architeccture에 대해 알아가는 개발자 입니다.
+*저는 Spring Framework와 Server Architeccture에 대해 알아가는 개발자 입니다.*
 
-* Java를 주로 사용하며 다른 언어 (C, C#, Python)는 기본 수준으로 사용 가능하며 
+*Java를 주로 사용하며 다른 언어 (C, C#, Python)는 기본 수준으로 사용 가능하며 *
 
-* 현재는 Javascript에 관련된 기술(ES6, Node-js, React)을 탐구하며 발전하고 있습니다.
+*현재는 Javascript에 관련된 기술(ES6, Node-js, React)을 탐구하며 발전하고 있습니다.*
 
 # Toy project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DogPawDev&repo=pharmacy-admin&show_icons=true&bg_color=FFFFFF)](https://github.com/DogPawDev/pharmacy-admin)
